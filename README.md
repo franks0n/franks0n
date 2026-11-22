@@ -17,48 +17,72 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Sobre mim
 
-```bash
-frankson@manaus:~$ whoami
-> Frankson Bentes Carvalho, dev em construção contínua 🚧
+✦ ━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━ ✦
 
-frankson@manaus:~$ cat missao.txt
-> Transformar ideia em app funcionando, rápido e bem feito ⚡
+![IA](https://img.shields.io/badge/INTELIGENCIA_ARTIFICIAL-302b63?style=for-the-badge&logo=openai&logoColor=white)
+![Automacao](https://img.shields.io/badge/AUTOMACAO-24c6dc?style=for-the-badge&logo=zapier&logoColor=white)
+![Apps](https://img.shields.io/badge/APPS_RAPIDOS-0f0c29?style=for-the-badge&logo=android&logoColor=white)
+![ES](https://img.shields.io/badge/ENG._DE_SOFTWARE-302b63?style=for-the-badge&logo=githubactions&logoColor=white)
 
-frankson@manaus:~$ ./status --agora
-> 🎓 cursando Engenharia de Software
-> 🧪 TCC: chatbot + realidade aumentada
-> 🤖 automatizando tudo que dá para automatizar
-> 🌳 direto de Manaus, no coração da Amazônia
+</div>
 
-frankson@manaus:~$ _
+<br/>
+
+```js
+const frankson = {
+  nome: "Frankson Bentes Carvalho",
+  cidade: "Manaus - AM 🇧🇷",
+  foco: ["Apps rápidos", "Inteligência Artificial", "Automação"],
+  estudando: ["Engenharia de Software", "Chatbots + Realidade Aumentada"],
+  superpoder: "Entregar aplicativos rápido, com ou sem IA ⚡",
+  frase: "Não dependo só da IA: eu sei o que o código está fazendo."
+};
 ```
 
 <div align="center">
 
-### ⚙️ Dois modos de operação
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌱 Aprendendo</h3>
+      Engenharia de Software,<br/>
+      chatbots e realidade aumentada
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 Com IA</h3>
+      Ideia → app funcionando<br/>
+      em tempo recorde
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Sem IA</h3>
+      Código do zero, na raça,<br/>
+      entendendo cada linha
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Já tirei do papel</h3>
+      Agendamento, emergência,<br/>
+      controle de frota e mais
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🎬 Nas horas vagas</h3>
+      Crio vídeos com IA, do roteiro ao prompt cinematográfico
+    </td>
+  </tr>
+</table>
 
-| 🤖 Modo IA | 🧠 Modo Raiz |
-|:--|:--|
-| Prompt bem escrito, automação e app no ar em tempo recorde | Código escrito na mão, linha por linha, entendendo cada decisão |
-| **Velocidade** | **Domínio** |
+<br/>
 
-*Uso a IA como turbo, não como muleta.* 🚀
+> 💬 ***"Não dependo só da IA: eu sei o que o código está fazendo."***
 
 </div>
-
-### 🎯 O que eu faço por aí
-
-| | |
-|:-:|:--|
-| 📱 | Crio apps de **agendamento, emergência, controle de frota** e feed social |
-| 🤖 | Junto **IA + automação** para entregar mais rápido |
-| 🎬 | Produzo **vídeos com IA**, do roteiro ao prompt cinematográfico |
-| 📈 | Entendo de **tráfego pago** e levo o negócio dos outros pro digital |
-| 📚 | Estudo todo dia, porque **dev que para de aprender fica pra trás** |
-
-> 💬 *"Não dependo só da IA: eu sei o que o código está fazendo."*
 
 ---
 
@@ -117,10 +141,8 @@ frankson@manaus:~$ _
 
 <div align="center">
 
-<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://instagram.com/frankson_carvalho"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:franksonbentescarvalho@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
