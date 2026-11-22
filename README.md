@@ -19,22 +19,46 @@
 
 ## 👨‍💻 Sobre mim
 
-```js
-const frankson = {
-  nome: "Frankson Bentes Carvalho",
-  cidade: "Manaus - AM 🇧🇷",
-  foco: ["Apps rápidos", "Inteligência Artificial", "Automação"],
-  estudando: ["Engenharia de Software", "Chatbots + Realidade Aumentada"],
-  superpoder: "Entregar aplicativos rápido, com ou sem IA ⚡",
-  frase: "Não dependo só da IA: eu sei o que o código está fazendo."
-};
+```bash
+frankson@manaus:~$ whoami
+> Frankson Bentes Carvalho, dev em construção contínua 🚧
+
+frankson@manaus:~$ cat missao.txt
+> Transformar ideia em app funcionando, rápido e bem feito ⚡
+
+frankson@manaus:~$ ./status --agora
+> 🎓 cursando Engenharia de Software
+> 🧪 TCC: chatbot + realidade aumentada
+> 🤖 automatizando tudo que dá para automatizar
+> 🌳 direto de Manaus, no coração da Amazônia
+
+frankson@manaus:~$ _
 ```
 
-- 🌱 Estudando **Engenharia de Software** e sempre aprendendo algo novo
-- 🤖 Uso **IA e automação** para sair da ideia ao app funcionando em tempo recorde
-- 🧠 Também desenvolvo **do zero, na raça**, sem IA
-- 🚀 Já tirei do papel apps de **agendamento, emergência, controle de frota** e mais
-- 🎬 Crio **vídeos com IA** nas horas vagas
+<div align="center">
+
+### ⚙️ Dois modos de operação
+
+| 🤖 Modo IA | 🧠 Modo Raiz |
+|:--|:--|
+| Prompt bem escrito, automação e app no ar em tempo recorde | Código escrito na mão, linha por linha, entendendo cada decisão |
+| **Velocidade** | **Domínio** |
+
+*Uso a IA como turbo, não como muleta.* 🚀
+
+</div>
+
+### 🎯 O que eu faço por aí
+
+| | |
+|:-:|:--|
+| 📱 | Crio apps de **agendamento, emergência, controle de frota** e feed social |
+| 🤖 | Junto **IA + automação** para entregar mais rápido |
+| 🎬 | Produzo **vídeos com IA**, do roteiro ao prompt cinematográfico |
+| 📈 | Entendo de **tráfego pago** e levo o negócio dos outros pro digital |
+| 📚 | Estudo todo dia, porque **dev que para de aprender fica pra trás** |
+
+> 💬 *"Não dependo só da IA: eu sei o que o código está fazendo."*
 
 ---
 
