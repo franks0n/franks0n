@@ -73,34 +73,17 @@ const frankson = {
 
 ---
 
-## 🏆 Troféus
+## 🚀 Projetos
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=franks0n&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/franks0n/franks0n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> 💡 A cobrinha precisa de uma GitHub Action. Se não quiser configurar, é só apagar esta seção.
-
----
-
-## 📌 Projetos em destaque
-
-<div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=franks0n&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/franks0n/NOME-DO-REPO-1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=franks0n&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/franks0n/NOME-DO-REPO-2)
+| | Projeto | O que é |
+|:-:|:--|:--|
+| 💇‍♀️ | **App de Agendamento** | Link público de agendamento para salão de beleza, com busca de serviços e WhatsApp |
+| 🚨 | **App de Emergência** | Conecta voluntários, cidadãos e órgãos como Defesa Civil, Bombeiros e SAMU |
+| 🚗 | **Controle de Veículos** | Saída e retorno de veículos da frota, no lugar dos formulários em papel |
+| 📱 | **App Feed & Denúncias** | App Android (Java + Firebase) com Feed, Em Alta, Denunciar e Perfil |
+| 🌐 | **Portfólio** | Meu site com formulário de captação de clientes e painel administrativo |
 
 </div>
 
