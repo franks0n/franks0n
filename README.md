@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Frankson%20Carvalho&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o%20%7C%20Manaus%20%F0%9F%8C%B3&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Frankson%20Carvalho&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=IA%20e%20Automacao%20-%20Manaus&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Frankson+%F0%9F%91%8B;Transformo+ideias+em+apps+r%C3%A1pido+%E2%9A%A1;IA+%2B+Automa%C3%A7%C3%A3o+%2B+C%C3%B3digo+na+m%C3%A3o+%F0%9F%A4%96;Eu+programo+com+e+sem+IA+%F0%9F%92%AA" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <br/>
 
-![Perfil](https://komarev.com/ghpvc/?username=franks0n&label=Visitas&color=24c6dc&style=for-the-badge)
+![Local](https://img.shields.io/badge/Manaus-AM-302b63?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Seguidores](https://img.shields.io/github/followers/franks0n?style=for-the-badge&logo=github&color=302b63)
 
 </div>
@@ -121,4 +121,4 @@ const frankson = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
