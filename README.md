@@ -32,16 +32,32 @@
 
 <br/>
 
-```js
-const frankson = {
-  nome: "Frankson Bentes Carvalho",
-  cidade: "Manaus - AM 🇧🇷",
-  foco: ["Apps rápidos", "Inteligência Artificial", "Automação"],
-  estudando: ["Engenharia de Software", "Chatbots + Realidade Aumentada"],
-  superpoder: "Entregar aplicativos rápido, com ou sem IA ⚡",
-  frase: "Não dependo só da IA: eu sei o que o código está fazendo."
-};
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="right" width="170"><b>👤 Nome</b></td>
+    <td align="left">Frankson Bentes Carvalho</td>
+  </tr>
+  <tr>
+    <td align="right"><b>📍 Cidade</b></td>
+    <td align="left">Manaus, Amazonas 🇧🇷</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎯 Foco</b></td>
+    <td align="left">Apps rápidos &nbsp;•&nbsp; Inteligência Artificial &nbsp;•&nbsp; Automação</td>
+  </tr>
+  <tr>
+    <td align="right"><b>📚 Estudando</b></td>
+    <td align="left">Engenharia de Software &nbsp;•&nbsp; Chatbots + Realidade Aumentada</td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚡ Superpoder</b></td>
+    <td align="left">Entregar aplicativos rápido, com ou sem IA</td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
 
